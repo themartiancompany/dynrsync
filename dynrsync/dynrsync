@@ -204,8 +204,6 @@ usage:
                           Default: '$(_get "tunnel" "remote")'
      -T <proxy_address>   Specify a proxy address
      -P <proxy_port>      Specify a proxy port
-     -C <ssh_path>        Connect using a specific ssh command.
-                          Default: '$(_get "ssh" "command")'
 
      -h                   This message.
      -c                   Enable color output
